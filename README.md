@@ -1,2 +1,5 @@
 # hello-world
-Code Camp
+
+Hi Coders::
+
+Martie here, I am exploring new opportunities!
